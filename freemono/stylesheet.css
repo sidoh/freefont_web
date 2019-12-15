@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'freemonomedium';
-    src: url('freemono-webfont.woff2') format('woff2'),
-         url('freemono-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/sidoh/freefont_web/master/freemono/freemono-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/sidoh/freefont_web/master/freemono/freemono-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
